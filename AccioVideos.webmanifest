@@ -1,0 +1,22 @@
+{
+  "name": "Accio Videos",
+  "short_name": "Accio Videos",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "share_target": {
+    "action": "index.html",
+    "method": "GET",
+    "params": {
+      "text": "url"
+    }
+  },
+  "icons": [
+    {
+      "src": "https://i.ibb.co/BLTyDXZ/Favicon-Accio-Videos.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
